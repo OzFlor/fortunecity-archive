@@ -7,16 +7,19 @@ Historical personal website of José António Flor de Sousa (OzFlor)
 A digital preservation archive of my early personal website, originally hosted at FortuneCity:
 
 
-Original address: http://www.fortunecity.com/greenfield/bypass/314/
+Original website: http://www.fortunecity.com/greenfield/bypass/314/
 
 
-The archive preserves recovered HTML source code and documents an early period of my personal presence on the internet, dating from 1998–2001.
+This repository preserves recovered HTML source code and documents an early period of my personal presence on the World Wide Web, beginning in 1998.
 
 
 Historical Background
 
 
-The original website was created during the early years of personal web publishing, using a combination of HTML hand-coding in Notepad and Trellix Web (HTML Exporter 2.7.3117).
+I began creating webpages in 1998, initially writing HTML using Notepad.
+
+
+In the early 2000s, I started using Trellix Web, including its HTML Exporter 2.7.3117, for website development and publishing.
 
 
 Pages were uploaded using dial-up FTP, reflecting the tools and internet infrastructure available at the time.
@@ -33,13 +36,13 @@ Recovery and Provenance
 Original hosting: FortuneCity
 
 
-Original URL: fortunecity.com/greenfield/bypass/314/
+Original URL: http://www.fortunecity.com/greenfield/bypass/314/
 
 
 Recovery source: Internet Archive (Wayback Machine)
 
 
-Available captures: 2002–2012
+Archived history: 61 captures between 14 April 2002 and 2 March 2017.
 
 
 Recovered material: Original HTML source, including the homepage markup.
@@ -48,12 +51,21 @@ Recovered material: Original HTML source, including the homepage markup.
 Preservation repository: GitHub — OzFlor/fortunecity-archive
 
 
+Recovery and repository milestone: 19 November 2026.
 
 
-The available snapshots did not preserve all original website components.
 
 
-Missing or incomplete material includes:
+The 2017 capture represents an archival observation by the Wayback Machine and does not establish that the original website was still operational or being updated at that time.
+
+
+Recovery Limitations and Further Investigation
+
+
+The recovered homepage source is only part of the original website.
+
+
+Some referenced components have not yet been recovered, including:
 
 
 
@@ -64,7 +76,7 @@ External pages and frames (index_l.htm, index_m.htm and private.htm).
 Images, backgrounds and animated graphics.
 
 
-JavaScript dependencies and other external resources.
+JavaScript dependencies and external resources.
 
 
 MIDI background music and associated files.
@@ -72,7 +84,13 @@ MIDI background music and associated files.
 
 
 
-Consequently, the recovered homepage may not reproduce the original website exactly as it appeared online.
+The original homepage references numerous local files and external resources that may be recoverable from other archived captures.
+
+
+Further investigation of the 61 snapshots and the archived URLs under the original website prefix may reveal additional pages, images and other material.
+
+
+Consequently, the current archive should not be considered a complete reconstruction of the original website.
 
 
 Original Website Topics
@@ -109,7 +127,7 @@ The original website included both English and Portuguese content.
 Preservation Principles
 
 
-This repository aims to preserve historical digital material rather than recreate or modernise it.
+This repository aims to preserve historical digital material rather than replace or modernise it.
 
 
 
@@ -118,6 +136,9 @@ Original recovered source code is retained as historical evidence.
 
 
 Original filenames and directory structures are preserved where possible.
+
+
+Historical dates and technical references are retained.
 
 
 Missing components are acknowledged rather than reconstructed as historical facts.
@@ -136,7 +157,8 @@ Author and Attribution
 
 José António Flor de Sousa
 
-Known online as José Flor – OzFlor
+
+Known online as José Flor – OzFlor.
 
 
 Original website copyright notice: © 1998/2001 José António Flor de Sousa.
@@ -146,6 +168,5 @@ Recovered and archived by José António Flor de Sousa (OzFlor).
 
 
 
-This repository preserves a small part of my personal digital history and the early evolution of my presence on the World Wide Web.
-
+This repository preserves a part of my personal digital history, including the early development of my presence on the World Wide Web, from the first webpages I created in 1998 onwards.
 
